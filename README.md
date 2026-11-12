@@ -24,7 +24,7 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 | 🔨 **Building** | To-Do App and Portfolio Website |
 | 🌱 **Learning** | JavaScript (DOM), Responsive Design, Git |
 | 🎯 **Focus** | Clean code, accessibility, mobile-first layouts |
-| 🤝 **Open to** | Internships, freelance work and collaboration |
+| 🤝 **Open to** | Internships and collaboration |
 
 ## 🧰 Tech Stack
 
