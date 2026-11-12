@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Thearith**, a frontend developer in training from Cambodia 🇰🇭.
+I'm **Thearith**, a frontend developer in training from Cambodia.
 I turn designs into fast, accessible and responsive web pages, and I learn by building small, real projects and sharing the code.
 
 | | |
