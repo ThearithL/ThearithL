@@ -31,7 +31,7 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 | 🔨 **Building** | To-Do App and Portfolio Website |
 | 🌱 **Learning** | JavaScript (DOM), React, Vue, Responsive Design, Git |
 | 🎯 **Focus** | Clean code, accessibility, mobile-first layouts |
-| 🤝 **Open to** | Internships, freelance work and collaboration |
+| 🤝 **Open to** | Internships,collaboration |
 | 💬 **Ask me about** | HTML, CSS, JavaScript, getting started with GitHub |
 
 ## 💡 What I Do
@@ -109,12 +109,12 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 - [x] HTML & CSS fundamentals
 - [x] Git & GitHub basics
 - [x] First projects: To-Do App, Portfolio Website
-- [ ] JavaScript (DOM, events, fetch / APIs)
-- [ ] React: components, props, state
-- [ ] Vue basics
-- [ ] Tailwind CSS & Bootstrap
-- [ ] Deploy projects with GitHub Pages
-- [ ] Build a project with a public API
+- [x] JavaScript (DOM, events, fetch / APIs)
+- [x] React: components, props, state
+- [x] Vue basics
+- [x] Tailwind CSS & Bootstrap
+- [x] Deploy projects with GitHub Pages
+- [x] Build a project with a public API
 
 ## 🎯 Goals
 
