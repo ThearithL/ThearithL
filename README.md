@@ -1,21 +1,13 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Thearith - Frontend Developer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=4FD1B0&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+clean+%26+responsive+websites;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Vue;Turning+designs+into+real+pages;Learning+something+new+every+day" alt="Typing animation"/>
+<img src="./assets/hero.svg" width="100%" alt="Thearith, Frontend Developer from Cambodia"/>
 
 <br/>
 
-<a href="https://t.me/YOUR-HANDLE"><img src="https://img.shields.io/badge/Telegram-2c5364?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ThearithL?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20work-4FD1B0?style=flat-square" alt="Open to work"/>
-<img src="https://img.shields.io/badge/Location-Cambodia-2c5364?style=flat-square" alt="Cambodia"/>
-<img src="https://img.shields.io/github/followers/ThearithL?label=Followers&style=flat-square&color=2c5364" alt="Followers"/>
-<img src="https://img.shields.io/github/last-commit/ThearithL/ThearithL?label=Last%20update&style=flat-square&color=2c5364" alt="Last update"/>
+<a href="https://t.me/Thearith143"><img src="https://img.shields.io/badge/Telegram-0f1626?style=for-the-badge&logo=telegram&logoColor=4FD1B0" alt="Telegram"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0f1626?style=for-the-badge&logo=gmail&logoColor=4FD1B0" alt="Email"/></a>
+<a href="https://github.com/ThearithL?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0f1626?style=for-the-badge&logo=github&logoColor=4FD1B0" alt="Repositories"/></a>
+<img src="https://img.shields.io/github/followers/ThearithL?label=Followers&style=for-the-badge&color=0f1626&labelColor=0f1626" alt="Followers"/>
 
 <br/><br/>
 
@@ -23,9 +15,9 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-## 👨‍💻 About Me
+<img src="./assets/section-about.svg" width="100%" alt="About Me"/>
 
 I'm **Thearith**, a frontend developer in training from Cambodia 🇰🇭.
 I turn designs into fast, accessible and responsive web pages, and I learn by building small, real projects and sharing the code.
@@ -33,16 +25,15 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 | | |
 |---|---|
 | 🎓 **Studying** | Computer Science at Royal University of Phnom Penh |
-| 💼 **Working at** | |
 | 🔨 **Building** | To-Do App and Portfolio Website |
 | 🌱 **Learning** | JavaScript (DOM), React, Vue, Responsive Design, Git |
 | 🎯 **Focus** | Clean code, accessibility, mobile-first layouts |
 | 🤝 **Open to** | Internships, freelance work and collaboration |
 | 💬 **Ask me about** | HTML, CSS, JavaScript, getting started with GitHub |
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-## 💡 What I Do
+<img src="./assets/section-whatido.svg" width="100%" alt="What I Do"/>
 
 <table>
   <tr>
@@ -61,9 +52,9 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-## 🧰 Tech Stack
+<img src="./assets/section-stack.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
 
@@ -73,15 +64,10 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 **Frameworks & Libraries**<br/>
 <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap&theme=dark" alt="Frameworks and libraries"/>
 
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Tools"/>
-
-**Design**<br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design"/>
+**Tools & Design**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma&theme=dark" alt="Tools and design"/>
 
 </div>
-
-### Where I am with each
 
 | Level | Technologies |
 |---|---|
@@ -89,36 +75,24 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 | 🟡 **Learning** | React, Vue, Tailwind CSS, Bootstrap |
 | 🔵 **Exploring** | C, C++, Java, C# |
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-## 📌 Featured Projects
+<img src="./assets/section-projects.svg" width="100%" alt="Featured Projects"/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>✅ <a href="https://github.com/ThearithL/todo-app">To-Do App</a></h3>
-      <p>A task manager to add, finish, filter and delete tasks. Saves automatically in the browser and works with the keyboard.</p>
-      <sub><b>Highlights:</b> DOM manipulation · localStorage · dark mode</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <td width="50%">
+      <a href="https://github.com/ThearithL/todo-app"><img src="./assets/project-todo.svg" width="100%" alt="To-Do App"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/ThearithL/portfolio-website">Portfolio Website</a></h3>
-      <p>A responsive one-page personal site with sections for skills, projects and contact, and automatic light and dark mode.</p>
-      <sub><b>Highlights:</b> CSS Grid · mobile-first · accessibility</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <td width="50%">
+      <a href="https://github.com/ThearithL/portfolio-website"><img src="./assets/project-portfolio.svg" width="100%" alt="Portfolio Website"/></a>
     </td>
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-## 🗺️ Learning Roadmap
+<img src="./assets/section-roadmap.svg" width="100%" alt="Learning Roadmap"/>
 
 - [x] HTML & CSS fundamentals
 - [x] Git & GitHub basics
@@ -130,9 +104,9 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 - [ ] Deploy projects with GitHub Pages
 - [ ] Build a project with a public API
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-## 🎯 Goals
+<img src="./assets/section-goals.svg" width="100%" alt="Goals"/>
 
 - Land a frontend internship or junior role
 - Publish 5+ polished projects with live demos
@@ -151,31 +125,19 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ThearithL&theme=transparent&hide_border=true&ring=4FD1B0&fire=4FD1B0&currStreakNum=4FD1B0&sideNums=4FD1B0&currStreakLabel=4FD1B0&sideLabels=8da0b8&dates=8da0b8" alt="Contribution streak"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## 📫 Get in Touch
+<img src="./assets/section-contact.svg" width="100%" alt="Get in Touch"/>
 
 Have a project, an internship or just want to say hi? I'd love to hear from you.
 
 <div align="center">
 
-<a href="https://t.me/Thearith143"><img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-2c5364?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Send%20an%20email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/Thearith143"><img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-0f1626?style=for-the-badge&logo=telegram&logoColor=4FD1B0" alt="Telegram"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Send%20an%20email-0f1626?style=for-the-badge&logo=gmail&logoColor=4FD1B0" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=8da0b8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile;Let's+build+something+great+together" alt="Thanks for visiting"/>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting. Let's build something great together."/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364&animation=twinkling" width="100%" alt=""/>
