@@ -80,7 +80,7 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 
 ## 📫 Get in Touch
 
-Have a project, an internship or just want to say hi? Message me on [Telegram](https://web.telegram.org/k/) or send an [email](mailto:YOUR-EMAIL@example.com).
+Have a project, an internship or just want to say hi? Message me on [Telegram]() or send an [email](mailto:YOUR-EMAIL@example.com).
 
 <div align="center">
 
