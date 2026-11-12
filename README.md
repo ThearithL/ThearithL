@@ -1,46 +1,47 @@
-<!-- ───────────── HEADER ───────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Thearith&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Thearith&fontColor=ffffff&fontSize=66&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20UI%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Thearith - Frontend Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=4FD1B0&center=true&vCenter=true&repeat=true&width=560&height=40&lines=Building+clean+%26+responsive+websites;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Turning+designs+into+real+pages;Learning+something+new+every+day" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=4FD1B0&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+clean+%26+responsive+websites;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Turning+designs+into+real+pages;Learning+something+new+every+day" alt="Typing animation"/>
 
 <br/>
 
 <a href="https://t.me/YOUR-HANDLE"><img src="https://img.shields.io/badge/Telegram-2c5364?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ThearithL&label=Profile%20views&color=2c5364&style=flat-square" alt="Views"/>
-<img src="https://img.shields.io/github/followers/ThearithL?label=Followers&style=flat-square&color=2c5364" alt="Followers"/>
+<a href="https://github.com/ThearithL?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt=""/>
 
-<!-- ───────────── ABOUT ───────────── -->
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30" alt="👋"/> About Me
+## 👨‍💻 About
 
 I'm **Thearith**, a frontend developer in training from Cambodia 🇰🇭.
-I enjoy turning designs into fast, accessible and responsive web pages.
+I turn designs into fast, accessible and responsive web pages, and I learn by building small, real projects.
 
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f528/512.gif" width="20" height="20" alt="🔨"/> **Building:** To-Do App and Portfolio Website
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="20" height="20" alt="🌱"/> **Learning:** JavaScript (DOM), Responsive Design, Git
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="20" height="20" alt="🤝"/> **Open to:** internships, freelance work and collaboration
+| | |
+|---|---|
+| 🔨 **Building** | To-Do App and Portfolio Website |
+| 🌱 **Learning** | JavaScript (DOM), Responsive Design, Git |
+| 🎯 **Focus** | Clean code, accessibility, mobile-first layouts |
+| 🤝 **Open to** | Internships, freelance work and collaboration |
 
-<!-- ───────────── STACK ───────────── -->
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30" alt="🚀"/> Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="Tech stack"/>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Languages"/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Tools"/>
+
+**Design**<br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design"/>
 
 </div>
 
-<!-- ───────────── PROJECTS ───────────── -->
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="30" height="30" alt="✨"/> Featured Projects
+## 📌 Featured Projects
 
 <table>
   <tr>
@@ -61,8 +62,7 @@ I enjoy turning designs into fast, accessible and responsive web pages.
   </tr>
 </table>
 
-<!-- ───────────── STATS ───────────── -->
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30" height="30" alt="📊"/> GitHub Stats
+## 📈 Activity
 
 <div align="center">
 
@@ -71,19 +71,18 @@ I enjoy turning designs into fast, accessible and responsive web pages.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ThearithL&theme=transparent&hide_border=true&ring=4FD1B0&fire=4FD1B0&currStreakNum=4FD1B0&sideNums=4FD1B0&currStreakLabel=4FD1B0&sideLabels=8da0b8&dates=8da0b8" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=ThearithL&theme=transparent&hide_border=true&ring=4FD1B0&fire=4FD1B0&currStreakNum=4FD1B0&sideNums=4FD1B0&currStreakLabel=4FD1B0&sideLabels=8da0b8&dates=8da0b8" alt="Contribution streak"/>
 
 </div>
 
-<!-- ───────────── CONTACT ───────────── -->
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="30" height="30" alt="📫"/> Get in Touch
+## 📫 Get in Touch
 
-Have a project, an internship or just want to say hi? Message me on [Telegram](https://t.me/YOUR-HANDLE) or [email](mailto:YOUR-EMAIL@example.com).
+Have a project, an internship or just want to say hi? Message me on [Telegram](https://t.me/YOUR-HANDLE) or send an [email](mailto:YOUR-EMAIL@example.com).
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=8da0b8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Let's+build+something+great+together" alt="Thanks"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=8da0b8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile;Let's+build+something+great+together" alt="Thanks for visiting"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364&animation=twinkling" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364&animation=twinkling" width="100%" alt=""/>
