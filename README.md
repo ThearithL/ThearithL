@@ -49,7 +49,7 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>✅ <a href="https://github.com/ThearithL/todo-app">To-Do App</a></h3>
+      <h3>✅ <a href="https://github.com/ThearithL/Portfolio">To-Do App</a></h3>
       <p>Add, finish, filter and delete tasks. Saves automatically in the browser.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
