@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Thearith&fontColor=ffffff&fontSize=68&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20UI%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Thearith - Frontend Developer"/>
+<img src="./assets/banner.svg" width="100%" alt="Thearith - Frontend Developer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=4FD1B0&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+clean+%26+responsive+websites;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Vue;Turning+designs+into+real+pages;Learning+something+new+every+day" alt="Typing animation"/>
 
@@ -17,22 +17,30 @@
 <img src="https://img.shields.io/github/followers/ThearithL?label=Followers&style=flat-square&color=2c5364" alt="Followers"/>
 <img src="https://img.shields.io/github/last-commit/ThearithL/ThearithL?label=Last%20update&style=flat-square&color=2c5364" alt="Last update"/>
 
+<br/><br/>
+
+<img src="./assets/marquee.svg" width="100%" alt="Technologies I use"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 👨‍💻 About Me
 
-I'm **Thearith**, a frontend developer in training from Cambodia.
+I'm **Thearith**, a frontend developer in training from Cambodia 🇰🇭.
 I turn designs into fast, accessible and responsive web pages, and I learn by building small, real projects and sharing the code.
 
 | | |
 |---|---|
+| 🎓 **Studying** | Computer Science at Royal University of Phnom Penh |
+| 💼 **Working at** | |
 | 🔨 **Building** | To-Do App and Portfolio Website |
 | 🌱 **Learning** | JavaScript (DOM), React, Vue, Responsive Design, Git |
 | 🎯 **Focus** | Clean code, accessibility, mobile-first layouts |
-| 🤝 **Open to** | Internships,collaboration |
+| 🤝 **Open to** | Internships, freelance work and collaboration |
 | 💬 **Ask me about** | HTML, CSS, JavaScript, getting started with GitHub |
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 💡 What I Do
 
@@ -52,6 +60,8 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
     </td>
   </tr>
 </table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🧰 Tech Stack
 
@@ -79,6 +89,8 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 | 🟡 **Learning** | React, Vue, Tailwind CSS, Bootstrap |
 | 🔵 **Exploring** | C, C++, Java, C# |
 
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 ## 📌 Featured Projects
 
 <table>
@@ -104,17 +116,21 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
   </tr>
 </table>
 
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 ## 🗺️ Learning Roadmap
 
 - [x] HTML & CSS fundamentals
 - [x] Git & GitHub basics
 - [x] First projects: To-Do App, Portfolio Website
-- [x] JavaScript (DOM, events, fetch / APIs)
-- [x] React: components, props, state
-- [x] Vue basics
-- [x] Tailwind CSS & Bootstrap
-- [x] Deploy projects with GitHub Pages
-- [x] Build a project with a public API
+- [ ] JavaScript (DOM, events, fetch / APIs)
+- [ ] React: components, props, state
+- [ ] Vue basics
+- [ ] Tailwind CSS & Bootstrap
+- [ ] Deploy projects with GitHub Pages
+- [ ] Build a project with a public API
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🎯 Goals
 
@@ -135,6 +151,8 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 
 </details>
 
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 ## 📈 Activity
 
 <div align="center">
@@ -142,6 +160,8 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 <img src="https://streak-stats.demolab.com?user=ThearithL&theme=transparent&hide_border=true&ring=4FD1B0&fire=4FD1B0&currStreakNum=4FD1B0&sideNums=4FD1B0&currStreakLabel=4FD1B0&sideLabels=8da0b8&dates=8da0b8" alt="Contribution streak"/>
 
 </div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 📫 Get in Touch
 
