@@ -31,7 +31,10 @@ I turn designs into fast, accessible and responsive web pages, and I learn by bu
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,cs&theme=dark" alt="Languages"/>
+
+**Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap&theme=dark" alt="Frameworks and libraries"/>
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Tools"/>
