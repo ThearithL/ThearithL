@@ -149,7 +149,7 @@ Have a project, an internship or just want to say hi? I'd love to hear from you.
 
 <div align="center">
 
-<a href="https://t.me/YOUR-HANDLE"><img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-2c5364?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://t.me/Thearith143"><img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-2c5364?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Send%20an%20email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
