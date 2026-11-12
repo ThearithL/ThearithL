@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Thearith, Frontend Developer from Cambodia"/>
+<img src="./image/hero.svg" width="100%" alt="Thearith, Frontend Developer from Cambodia"/>
 
 <br/>
 
@@ -11,54 +11,54 @@
 
 <br/><br/>
 
-<img src="./assets/marquee.svg" width="100%" alt="Technologies I use"/>
+<img src="./image/marquee.svg" width="100%" alt="Technologies I use"/>
 
 </div>
 
 <br/>
 
-<img src="./assets/section-about.svg" width="100%" alt="About Me"/>
+<img src="./image/section-about.svg" width="100%" alt="About Me"/>
 
 I'm **Thearith**, a frontend developer in training from Cambodia 🇰🇭. I turn designs into fast, accessible and responsive web pages, and I learn by building small, real projects and sharing the code.
 
-<img src="./assets/about.svg" width="100%" alt="Studying Computer Science at Royal University of Phnom Penh. Building a To-Do App and Portfolio Website. Learning JavaScript, React and Vue. Focused on clean, accessible code. Open to internships, freelance and collaboration."/>
+<img src="./image/about.svg" width="100%" alt="Studying Computer Science at Royal University of Phnom Penh. Building a To-Do App and Portfolio Website. Learning JavaScript, React and Vue. Focused on clean, accessible code. Open to internships, freelance and collaboration."/>
 
 <br/><br/>
 
-<img src="./assets/section-whatido.svg" width="100%" alt="What I Do"/>
+<img src="./image/section-whatido.svg" width="100%" alt="What I Do"/>
 
-<img src="./assets/whatido.svg" width="100%" alt="Build interfaces, add interactivity, make it responsive"/>
-
-<br/><br/>
-
-<img src="./assets/section-stack.svg" width="100%" alt="Tech Stack"/>
-
-<img src="./assets/skills.svg" width="100%" alt="Core: HTML, CSS, JavaScript, Git and GitHub. Learning: React, Vue, Tailwind CSS, Bootstrap. Exploring: C, C++, Java, C#."/>
+<img src="./image/whatido.svg" width="100%" alt="Build interfaces, add interactivity, make it responsive"/>
 
 <br/><br/>
 
-<img src="./assets/section-projects.svg" width="100%" alt="Featured Projects"/>
+<img src="./image/section-stack.svg" width="100%" alt="Tech Stack"/>
+
+<img src="./image/skills.svg" width="100%" alt="Core: HTML, CSS, JavaScript, Git and GitHub. Learning: React, Vue, Tailwind CSS, Bootstrap. Exploring: C, C++, Java, C#."/>
+
+<br/><br/>
+
+<img src="./image/section-projects.svg" width="100%" alt="Featured Projects"/>
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/ThearithL/todo-app"><img src="./assets/project-todo.svg" width="100%" alt="To-Do App"/></a>
+      <a href="https://github.com/ThearithL/todo-app"><img src="./image/project-todo.svg" width="100%" alt="To-Do App"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/ThearithL/portfolio-website"><img src="./assets/project-portfolio.svg" width="100%" alt="Portfolio Website"/></a>
+      <a href="https://github.com/ThearithL/portfolio-website"><img src="./image/project-portfolio.svg" width="100%" alt="Portfolio Website"/></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="./assets/section-roadmap.svg" width="100%" alt="Learning Roadmap"/>
+<img src="./image/section-roadmap.svg" width="100%" alt="Learning Roadmap"/>
 
-<img src="./assets/roadmap.svg" width="100%" alt="Learning roadmap: 3 of 9 steps done, JavaScript is next"/>
+<img src="./image/roadmap.svg" width="100%" alt="Learning roadmap: 3 of 9 steps done, JavaScript is next"/>
 
 <br/><br/>
 
-<img src="./assets/section-goals.svg" width="100%" alt="Goals"/>
+<img src="./image/section-goals.svg" width="100%" alt="Goals"/>
 
 - Land a frontend internship or junior role
 - Publish 5+ polished projects with live demos
@@ -79,7 +79,7 @@ I'm **Thearith**, a frontend developer in training from Cambodia 🇰🇭. I tur
 
 <br/>
 
-<img src="./assets/section-contact.svg" width="100%" alt="Get in Touch"/>
+<img src="./image/section-contact.svg" width="100%" alt="Get in Touch"/>
 
 Have a project, an internship or just want to say hi? I'd love to hear from you.
 
@@ -90,6 +90,6 @@ Have a project, an internship or just want to say hi? I'd love to hear from you.
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting. Let's build something great together."/>
+<img src="./image/footer.svg" width="100%" alt="Thanks for visiting. Let's build something great together."/>
 
 </div>
